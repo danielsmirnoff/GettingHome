@@ -1,10 +1,21 @@
-# gettinghome
+# GettingHome
 
-A new Flutter project.
+A offline Medical Guide Application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the project
+2. Download dependencies
+3. Run project
+
+### Run this code snippet to setup the project!
+```
+git clone https://github.com/danielsmirnoff/GettingHome.git
+cd GettingHome
+flutter pub get
+flutter run
+```
+
 
 A few resources to get you started if this is your first Flutter project:
 
